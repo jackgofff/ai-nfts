@@ -1,4 +1,4 @@
-# AI Generated NFT Collection
+# SOL modification of AI gen NFTs
 
 ## Overview
 
